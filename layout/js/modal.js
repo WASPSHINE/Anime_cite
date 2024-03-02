@@ -24,3 +24,9 @@ function  function_name(event) {
     console.log('input', event.target.value);
 }
 
+// const clearInput = () => {
+//     input.value = "";
+//     const clearInput = () => {
+//         input.value = "";
+//     };
+// };
